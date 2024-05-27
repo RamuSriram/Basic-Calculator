@@ -1,6 +1,6 @@
 # Basic Calculator
 
-This is a simple calculator application built using Android and Jetpack Compose. I created this app as a learning project to understand the basics of Android application development, including UI design with Compose, state management, and basic arithmetic operations.
+This is a simple calculator application built using Android Studio and Jetpack Compose. I created this app as a learning project to understand the basics of Android application development, including UI design with Compose, state management, and basic arithmetic operations.
 
 ## Features
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
